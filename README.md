@@ -1,20 +1,24 @@
-# 💰 TaxLens — AI Tax Optimization Assistant
+# 💰 TaxLens — AI Tax Optimization Assistant  
 
-**Live Demo (deploy after pushing):** `https://taxlens.streamlit.app`  
-**Goal:** Help students, freelancers, and small organizations explore *simplified* tax estimates and deduction opportunities via an interactive Streamlit app.
+**Live App:** [https://taxlens.streamlit.app/](https://taxlens.streamlit.app/)  
 
-> ⚠️ Educational demo — simplified 2024 U.S. federal brackets. **Not tax advice.**
+TaxLens helps individuals and small business owners estimate taxes, compare deductions, and visualize income/expense breakdowns — powered by **Python + Streamlit**.  
+
+### 🚀 Features
+- Auto-analysis of income vs. expenses  
+- Standard vs. itemized deduction comparison  
+- Real-time federal tax estimate (2024 brackets)  
+- Interactive chart & downloadable PDF report  
+- “What-If” simulator for deduction adjustments *(coming soon)*  
+
+### 🧠 Tech Stack
+`Python` · `Pandas` · `Streamlit` · `ReportLab` · `JSON`  
+
+### 📈 Vision
+TaxLens empowers users to understand how financial data turns into tax outcomes — promoting **financial literacy, transparency, and data-driven decision-making**.  
 
 ---
 
-## ✨ Features
-- Upload CSV: `Type, Category, Amount` (Type ∈ {Income, Expense})
-- Filing status: Single / Married Filing Jointly / Head of Household
-- Standard vs. Itemized deduction comparison (basic proxy)
-- Suggestions for common deduction categories
-- Expenses-by-category bar chart
-- Download **CSV** category summary and **PDF** tax summary
-
----
-
-## 🧱 Project Structure
+## 🧩 Step 2 — Add the Link to GitHub Profile
+Go to your repo → **Settings → About → Website**  
+Paste:  
