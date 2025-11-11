@@ -19,6 +19,3 @@ TaxLens empowers users to understand how financial data turns into tax outcomes 
 
 ---
 
-## 🧩 Step 2 — Add the Link to GitHub Profile
-Go to your repo → **Settings → About → Website**  
-Paste:  
